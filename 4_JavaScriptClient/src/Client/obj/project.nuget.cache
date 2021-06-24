@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNhdhDefd5dZjYD5zw5Sz714OqnqUGyX6tqklOf7EVdr9vr4U2HSdmD05UXvJB8aY3UW0D4xr7A+v3dt8Ipa3g==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Quickstarts\\4_JavaScriptClient\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taokh\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\taokh\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\taokh\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
